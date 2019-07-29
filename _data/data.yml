@@ -29,8 +29,8 @@ sidebar:
         level: Native
 
       - idiom: English
-        Toeic: 940(2018.09.15)
-        OPIC : IH(2018.12.02)
+        level: Toeic: 940(2018.09.15)
+        level: OPIC : IH(2018.12.02)
 
     interests:
       - item: Basketball
